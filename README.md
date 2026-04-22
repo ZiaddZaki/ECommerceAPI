@@ -144,7 +144,7 @@ Authorization: Bearer YOUR_JWT_TOKEN
 
 ## Postman Testing Video
 
-> **[Watch the full API testing walkthrough here](#)**
+> **[Watch the full API testing walkthrough here](https://drive.google.com/file/d/1IDZiWwbnbrBy9uU7nTkSzuX49UOQ-5TU/view?usp=drivesdk)**
 ---
 
 ## Author
