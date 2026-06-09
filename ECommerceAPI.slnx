@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ECommerceAPI.BLL/ECommerceAPI.BLL.csproj" />
+  <Project Path="ECommerceAPI.Common/ECommerceAPI.Common.csproj" />
+  <Project Path="ECommerceAPI.DAL/ECommerceAPI.DAL.csproj" />
+  <Project Path="ECommerceAPI/ECommerceAPI.csproj" />
+</Solution>
