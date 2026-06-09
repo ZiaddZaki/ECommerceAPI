@@ -7,6 +7,7 @@ A fully functional E-Commerce backend REST API built with ASP.NET Core, followin
 ## Tech Stack
 
 - **ASP.NET Core** (.NET 10)
+<<<<<<< HEAD
 - **Entity Framework Core** — ORM
 - **SQL Server** — Database
 - **Microsoft Identity** — User management
@@ -16,6 +17,17 @@ A fully functional E-Commerce backend REST API built with ASP.NET Core, followin
 - **N-Tier Architecture** — API / BLL / DAL / Common
 - **Repository Pattern + Unit of Work**
 - **Result Pattern** — Unified API responses
+=======
+- **Entity Framework Core** â€” ORM
+- **SQL Server** â€” Database
+- **Microsoft Identity** â€” User management
+- **JWT Authentication** â€” Token-based auth
+- **Policy-Based Authorization** â€” Role-based access control
+- **Fluent Validation** â€” Input validation
+- **N-Tier Architecture** â€” API / BLL / DAL / Common
+- **Repository Pattern + Unit of Work**
+- **Result Pattern** â€” Unified API responses
+>>>>>>> 9b52bcd255d7b29f5cffdc2dc095603c847dfdcb
 
 ---
 
@@ -128,7 +140,11 @@ ECommerceAPI/
 
 ---
 
+<<<<<<< HEAD
 ## ?? Authentication
+=======
+## Authentication
+>>>>>>> 9b52bcd255d7b29f5cffdc2dc095603c847dfdcb
 
 All protected endpoints require a **Bearer Token** in the Authorization header:
 
@@ -137,6 +153,7 @@ Authorization: Bearer YOUR_JWT_TOKEN
 ```
 
 **Roles:**
+<<<<<<< HEAD
 - `Admin` — Full access to Products, Categories, Images
 - `User` — Access to Cart and Orders
 
@@ -150,3 +167,18 @@ Authorization: Bearer YOUR_JWT_TOKEN
 ## ????? Author
 
 **Ziad** — ITI
+=======
+- `Admin` â€” Full access to Products, Categories, Images
+- `User` â€” Access to Cart and Orders
+
+---
+
+## Postman Testing Video
+
+> **[Watch the full API testing walkthrough here](https://drive.google.com/file/d/1IDZiWwbnbrBy9uU7nTkSzuX49UOQ-5TU/view?usp=drivesdk)**
+---
+
+## Author
+
+**Ziad** â€” ITI
+>>>>>>> 9b52bcd255d7b29f5cffdc2dc095603c847dfdcb
